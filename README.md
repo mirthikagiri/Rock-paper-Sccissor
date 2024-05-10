@@ -1,4 +1,4 @@
-#Rock, Paper, Scissors Game with Tkinter
+# Rock, Paper, Scissors Game with Tkinter
 This is a simple implementation of the classic game "Rock, Paper, Scissors" with a graphical user interface built using Tkinter in Python. Players can play against the computer in a series of rounds, where each player selects one of the three options: rock, paper, or scissors. The program then determines the winner based on the rules: rock beats scissors, scissors beats paper, and paper beats rock.
 
 Features:
